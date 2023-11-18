@@ -1,0 +1,45 @@
+{
+  "profileDetails": [
+    {
+      "id": 1,
+      "name": "Akshay Kumar",
+      "profile": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "designation": "Front End Developer",
+      "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam pariatur vitae fuga atque enim, iusto porro",
+      "mail": "akshay@gmail.com",
+      "number": "7657654653"
+    },
+    {
+      "id": 2,
+      "name": "Anushree",
+      "profile": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "designation": "Full Stack Developer",
+      "discription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam pariatur vitae fuga atque enim, iusto porro",
+      "mail": "anu@gmail.com",
+      "number": "7765354365"
+    }
+  ],
+  "signupUser": [
+    {
+      "fullname": "Akshay",
+      "email": "akshay@gmail.com",
+      "password": "123",
+      "mobile": 1234567890,
+      "id": 1
+    },
+    {
+      "fullname": "Anushree",
+      "email": "anu@gmail.com",
+      "password": "1234",
+      "mobile": "1234567890",
+      "id": 3
+    },
+    {
+      "fullname": "Sithara",
+      "email": "sithara@gmail",
+      "password": "12345",
+      "mobile": "754787587687565",
+      "id": 4
+    }
+  ]
+}
